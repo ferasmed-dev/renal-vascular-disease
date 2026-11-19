@@ -1,0 +1,44 @@
+{
+  "topic": "Renal vascular disease",
+  "system": "Renal / urinary",
+  "specialty": "Nephrology",
+  "eciModule": "III — Formación clínica humana",
+  "typicalSubjects": [
+    "Fisiopatología",
+    "Patología médica",
+    "Nefrología",
+    "Anatomía patológica",
+    "Farmacología"
+  ],
+  "mirRelevant": true,
+  "keywords_es": [
+    "nefroangioesclerosis",
+    "HTA maligna",
+    "estenosis de arteria renal",
+    "nefropatía isquémica",
+    "displasia fibromuscular",
+    "infarto renal",
+    "ateroembolia",
+    "microangiopatía trombótica",
+    "SHU",
+    "PTT",
+    "vasculitis"
+  ],
+  "keywords_en": [
+    "hypertensive nephrosclerosis",
+    "malignant hypertension",
+    "renal artery stenosis",
+    "ischaemic nephropathy",
+    "fibromuscular dysplasia",
+    "renal infarction",
+    "atheroembolic disease",
+    "thrombotic microangiopathy",
+    "HUS",
+    "TTP",
+    "vasculitis"
+  ],
+  "languages": [
+    "es",
+    "en"
+  ]
+}

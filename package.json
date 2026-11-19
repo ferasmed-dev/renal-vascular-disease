@@ -1,0 +1,9 @@
+{
+  "name": "renal-vascular-disease",
+  "version": "1.0.0",
+  "description": "Interactive teaching simulator of renal vascular disease (nephrosclerosis, malignant hypertension, renal artery stenosis, infarction, atheroembolism, HUS, TTP, vasculitis). ES/EN.",
+  "type": "module",
+  "scripts": { "test": "node --test" },
+  "license": "MIT",
+  "author": "Feras Elhissi"
+}
